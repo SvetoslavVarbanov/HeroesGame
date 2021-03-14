@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxKSwCd1Iw6A9fx4t/rA36E1FS5nEE5PFtP+GEA8GB1UiA0j0N7tk/EtZ0qeSD8J/epBsWWbJiCCpH2rCqbscg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\svetk\\OneDrive\\Desktop\\Svetko\\Programming\\Модул 13\\05-software-testing\\TestingExercise\\HeroesGame\\HeroesGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svetk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\svetk\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\svetk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
